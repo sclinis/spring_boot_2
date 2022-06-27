@@ -15,15 +15,19 @@ public class PostingServices {
 
     @Autowired
     private ExampleFileReader exampleFileReader;
+    @Autowired
+    private Posting resultPosting;
+    @Autowired
+    private PriceComparator priceComparator;
 
     private List<Posting> arrangePostingsByPrice (){
         List<Posting> postingList = exampleFileReader.getPostingFromJson();
-        Collections.sort(postingList, new PriceComparator());
+        Collections.sort(postingList, priceComparator);
         return postingList;
     }
 
     private Posting getLowerPriceByStatus (Status status){
-        Posting resultPosting = new Posting();
+        //Posting resultPosting = new Posting();
         for (Posting posting : arrangePostingsByPrice()){
             if (posting!=null && status.equals(posting.getStatus())){
                 resultPosting = posting;
