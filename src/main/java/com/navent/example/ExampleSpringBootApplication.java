@@ -2,6 +2,7 @@ package com.navent.example;
 
 import com.navent.example.model.Posting;
 import com.navent.example.reader.ExampleFileReader;
+import com.navent.example.services.PostingServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -15,6 +16,9 @@ public class ExampleSpringBootApplication implements CommandLineRunner {
 	@Autowired
 	private ExampleFileReader reader;
 
+	@Autowired
+	private PostingServices postingServices;
+
 	public static void main(String[] args) {
 		SpringApplication.run(ExampleSpringBootApplication.class, args);
 	}
@@ -23,5 +27,6 @@ public class ExampleSpringBootApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		List<Posting> postings = reader.getPostingFromJson();
 		System.out.println(postings);
+		postingServices.showLowerPricePostingOnline();
 	}
 }
