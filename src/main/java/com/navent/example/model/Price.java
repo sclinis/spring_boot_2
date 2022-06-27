@@ -5,8 +5,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Data
-public class Posting {
-    private String title;
-    private Price price;
-    private StatusEnum status;
+public class Price {
+    private Double amount;
 }
