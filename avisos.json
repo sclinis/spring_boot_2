@@ -1,0 +1,500 @@
+{
+    "paging": {
+        "total": 27333,
+        "offset": 0,
+        "limit": 60
+    },
+    "result": [
+        {
+            "title": "Hermoso 3 ambientes 78m con Amenities ! Palermo Chico",
+            "description": "**** SCALABRINI ORTIZ entre CABELLO y LAS HERAS (frente a la plaza) - PALERMO CHICO ****Hermoso departamento de 3 ambientes ( 2 dormitorios ) al contrafrente en edificio moderno con amenities: 1) Piscina en la terraza, 2) Gimnasio, 3) Parrilla, 4) SaunaEdificio de categoría ubicado en la zona mas exclusiva de palermo chico, a solo media cuadra de Av Las Heras y de todos los medios de transporte y a media cuadra del importante polo comercial. Dormitorio principal en suite con baño completo y patio orientados al pulmón del edificio Amplio living comedor y segundo dormitorio orientados al contrafrente y al balcónCocina completa  orientada al lateral (muy luminosa) Segundo baño completo (ó toilette de recepción)  Amplio hall de entrada con espacio para escritorio Lavadero Servicios: losa radiante, agua central, cocina a gas.Metrajes del departamento: 78 metros totales, 66 cubiertos, 6 de balcón, 6 de patio. EDIFICIO APTO PROFESIONAL (Se adjunta el plano del departamento en imágenes)DISPONIBLE !!!",
+            "pictures": [
+                {
+                    "order": 1,
+                    "reference": "https://static.tokkobroker.com/pictures/80903299197581772867312456841446123611153689212673190309515384701009706210637.jpg?ONETag=f4a89b66d42925a06888ea3b227c18c1&ONImageHash=defb6af68a708d05f64a1afc59d5d4c9",
+                    "multimedia_type": {
+                        "name": "imagen",
+                        "metadata": {
+                            "translation": {
+                                "plural": "Fotos",
+                                "singular": "Foto"
+                            }
+                        },
+                        "multimedia_type_id": "2"
+                    },
+                    "picture_id": "1812835855",
+                    "real_size": {
+                        "height": 900,
+                        "width": 1200
+                    },
+                    "temporary": false
+                }
+            ],
+            "status": "ONLINE",
+            "type": "PROPERTY",
+            "posting_id": "49793359",
+            "real_estate_type": {
+                "name": "Apartamento",
+                "category": {
+                    "metadata": {
+                        "translation": {
+                            "plural": "Residenciales",
+                            "singular": "Residencial"
+                        }
+                    },
+                    "real_estate_type_category_id": "1",
+                    "label": "Residencial"
+                },
+                "metadata": {
+                    "translation": {
+                        "plural": "Departamentos",
+                        "singular": "Departamento"
+                    }
+                },
+                "real_estate_type_id": "2"
+            },
+            "price":  {
+                "amount": 215000,
+                "currency": "USD"
+            },
+            "publisher": {
+                "approved": false,
+                "publisher_id": "17061374",
+                "description": "Inmobiliaria especializada en ventas, alquileres tradicionales y alquileres temporales, dentro de la Capital. Para tasaciones, al 4773-6102",
+                "name": "Cuño Propiedades",
+                "legal_name": "FONTANA MARIA NOELIA",
+                "tax_id": "-",
+                "postal_code": "1425",
+                "tax_condition": {
+                    "id": "1",
+                    "name": "Responsable Inscripto",
+                    "enabled": true
+                },
+                "publisher_type": {
+                    "name": "Inmobiliaria",
+                    "publisher_type_id": "2"
+                },
+                "locked_manual": false,
+                "microsite_activated": false,
+                "address": "SINCLAIR 2976 PISO 4 OFICINA \"A\" ",
+                "mainPhone": "(011) 4773-6102",
+                "email": "noeliafontanaprop@gmail.com",
+                "url_logo": "https://preprostatic.zonapropcdn.com/empresas/1/00/17/06/13/74/130x70/logo_cuno-propiedades_1588283421534.jpg",
+                "license": "7180",
+                "slug": "CuñoPropiedades",
+                "created_date": "2010-09-01T00:00:00-0400",
+                "modified_date": "2020-04-30T17:50:22-0400"
+            }
+            
+        },
+        {
+            "title": "Hermoso 2 ambientes 100m con Amenities ! Belgrano",
+            "description": "**** SCALABRINI ORTIZ entre CABELLO y LAS HERAS (frente a la plaza) - PALERMO CHICO ****Hermoso departamento de 3 ambientes ( 2 dormitorios ) al contrafrente en edificio moderno con amenities: 1) Piscina en la terraza, 2) Gimnasio, 3) Parrilla, 4) SaunaEdificio de categoría ubicado en la zona mas exclusiva de palermo chico, a solo media cuadra de Av Las Heras y de todos los medios de transporte y a media cuadra del importante polo comercial. Dormitorio principal en suite con baño completo y patio orientados al pulmón del edificio Amplio living comedor y segundo dormitorio orientados al contrafrente y al balcónCocina completa  orientada al lateral (muy luminosa) Segundo baño completo (ó toilette de recepción)  Amplio hall de entrada con espacio para escritorio Lavadero Servicios: losa radiante, agua central, cocina a gas.Metrajes del departamento: 78 metros totales, 66 cubiertos, 6 de balcón, 6 de patio. EDIFICIO APTO PROFESIONAL (Se adjunta el plano del departamento en imágenes)DISPONIBLE !!!",
+            "pictures": [
+                {
+                    "order": 1,
+                    "reference": "https://static.tokkobroker.com/pictures/80903299197581772867312456841446123611153689212673190309515384701009706210637.jpg?ONETag=f4a89b66d42925a06888ea3b227c18c1&ONImageHash=defb6af68a708d05f64a1afc59d5d4c9",
+                    "multimedia_type": {
+                        "name": "imagen",
+                        "metadata": {
+                            "translation": {
+                                "plural": "Fotos",
+                                "singular": "Foto"
+                            }
+                        },
+                        "multimedia_type_id": "2"
+                    },
+                    "picture_id": "1812835855",
+                    "real_size": {
+                        "height": 900,
+                        "width": 1200
+                    },
+                    "temporary": false
+                }
+            ],
+            "status": "ONLINE",
+            "type": "PROPERTY",
+            "posting_id": "49793359",
+            "real_estate_type": {
+                "name": "Apartamento",
+                "category": {
+                    "metadata": {
+                        "translation": {
+                            "plural": "Residenciales",
+                            "singular": "Residencial"
+                        }
+                    },
+                    "real_estate_type_category_id": "1",
+                    "label": "Residencial"
+                },
+                "metadata": {
+                    "translation": {
+                        "plural": "Departamentos",
+                        "singular": "Departamento"
+                    }
+                },
+                "real_estate_type_id": "2"
+            },
+            "price":  {
+                "amount": 115000,
+                "currency": "USD"
+            },
+            "publisher": {
+                "approved": false,
+                "publisher_id": "17061374",
+                "description": "Inmobiliaria especializada en ventas, alquileres tradicionales y alquileres temporales, dentro de la Capital. Para tasaciones, al 4773-6102",
+                "name": "Cuño Propiedades",
+                "legal_name": "FONTANA MARIA NOELIA",
+                "tax_id": "-",
+                "postal_code": "1425",
+                "tax_condition": {
+                    "id": "1",
+                    "name": "Responsable Inscripto",
+                    "enabled": true
+                },
+                "publisher_type": {
+                    "name": "Inmobiliaria",
+                    "publisher_type_id": "2"
+                },
+                "locked_manual": false,
+                "microsite_activated": false,
+                "address": "SINCLAIR 2976 PISO 4 OFICINA \"A\" ",
+                "mainPhone": "(011) 4773-6102",
+                "email": "noeliafontanaprop@gmail.com",
+                "url_logo": "https://preprostatic.zonapropcdn.com/empresas/1/00/17/06/13/74/130x70/logo_cuno-propiedades_1588283421534.jpg",
+                "license": "7180",
+                "slug": "CuñoPropiedades",
+                "created_date": "2010-09-01T00:00:00-0400",
+                "modified_date": "2020-04-30T17:50:22-0400"
+            }
+            
+        },
+        {
+            "title": "Hermoso monoambiente moderno ! Palermo",
+            "description": "**** SCALABRINI ORTIZ entre CABELLO y LAS HERAS (frente a la plaza) - PALERMO CHICO ****Hermoso departamento de 3 ambientes ( 2 dormitorios ) al contrafrente en edificio moderno con amenities: 1) Piscina en la terraza, 2) Gimnasio, 3) Parrilla, 4) SaunaEdificio de categoría ubicado en la zona mas exclusiva de palermo chico, a solo media cuadra de Av Las Heras y de todos los medios de transporte y a media cuadra del importante polo comercial. Dormitorio principal en suite con baño completo y patio orientados al pulmón del edificio Amplio living comedor y segundo dormitorio orientados al contrafrente y al balcónCocina completa  orientada al lateral (muy luminosa) Segundo baño completo (ó toilette de recepción)  Amplio hall de entrada con espacio para escritorio Lavadero Servicios: losa radiante, agua central, cocina a gas.Metrajes del departamento: 78 metros totales, 66 cubiertos, 6 de balcón, 6 de patio. EDIFICIO APTO PROFESIONAL (Se adjunta el plano del departamento en imágenes)DISPONIBLE !!!",
+            "pictures": [
+                {
+                    "order": 1,
+                    "reference": "https://static.tokkobroker.com/pictures/80903299197581772867312456841446123611153689212673190309515384701009706210637.jpg?ONETag=f4a89b66d42925a06888ea3b227c18c1&ONImageHash=defb6af68a708d05f64a1afc59d5d4c9",
+                    "multimedia_type": {
+                        "name": "imagen",
+                        "metadata": {
+                            "translation": {
+                                "plural": "Fotos",
+                                "singular": "Foto"
+                            }
+                        },
+                        "multimedia_type_id": "2"
+                    },
+                    "picture_id": "1812835855",
+                    "real_size": {
+                        "height": 900,
+                        "width": 1200
+                    },
+                    "temporary": false
+                }
+            ],
+            "status": "OFFLINE",
+            "type": "PROPERTY",
+            "posting_id": "49793359",
+            "real_estate_type": {
+                "name": "Apartamento",
+                "category": {
+                    "metadata": {
+                        "translation": {
+                            "plural": "Residenciales",
+                            "singular": "Residencial"
+                        }
+                    },
+                    "real_estate_type_category_id": "1",
+                    "label": "Residencial"
+                },
+                "metadata": {
+                    "translation": {
+                        "plural": "Departamentos",
+                        "singular": "Departamento"
+                    }
+                },
+                "real_estate_type_id": "2"
+            },
+            "price":  {
+                "amount": 225000,
+                "currency": "USD"
+            },
+            "publisher": {
+                "approved": false,
+                "publisher_id": "17061374",
+                "description": "Inmobiliaria especializada en ventas, alquileres tradicionales y alquileres temporales, dentro de la Capital. Para tasaciones, al 4773-6102",
+                "name": "Cuño Propiedades",
+                "legal_name": "FONTANA MARIA NOELIA",
+                "tax_id": "-",
+                "postal_code": "1425",
+                "tax_condition": {
+                    "id": "1",
+                    "name": "Responsable Inscripto",
+                    "enabled": true
+                },
+                "publisher_type": {
+                    "name": "Inmobiliaria",
+                    "publisher_type_id": "2"
+                },
+                "locked_manual": false,
+                "microsite_activated": false,
+                "address": "SINCLAIR 2976 PISO 4 OFICINA \"A\" ",
+                "mainPhone": "(011) 4773-6102",
+                "email": "noeliafontanaprop@gmail.com",
+                "url_logo": "https://preprostatic.zonapropcdn.com/empresas/1/00/17/06/13/74/130x70/logo_cuno-propiedades_1588283421534.jpg",
+                "license": "7180",
+                "slug": "CuñoPropiedades",
+                "created_date": "2010-09-01T00:00:00-0400",
+                "modified_date": "2020-04-30T17:50:22-0400"
+            }
+            
+        },
+           {
+            "title": "Hermoso 3 ambientes 178m con Amenities ! Villa Crespo",
+            "description": "**** SCALABRINI ORTIZ entre CABELLO y LAS HERAS (frente a la plaza) - PALERMO CHICO ****Hermoso departamento de 3 ambientes ( 2 dormitorios ) al contrafrente en edificio moderno con amenities: 1) Piscina en la terraza, 2) Gimnasio, 3) Parrilla, 4) SaunaEdificio de categoría ubicado en la zona mas exclusiva de palermo chico, a solo media cuadra de Av Las Heras y de todos los medios de transporte y a media cuadra del importante polo comercial. Dormitorio principal en suite con baño completo y patio orientados al pulmón del edificio Amplio living comedor y segundo dormitorio orientados al contrafrente y al balcónCocina completa  orientada al lateral (muy luminosa) Segundo baño completo (ó toilette de recepción)  Amplio hall de entrada con espacio para escritorio Lavadero Servicios: losa radiante, agua central, cocina a gas.Metrajes del departamento: 78 metros totales, 66 cubiertos, 6 de balcón, 6 de patio. EDIFICIO APTO PROFESIONAL (Se adjunta el plano del departamento en imágenes)DISPONIBLE !!!",
+            "pictures": [
+                {
+                    "order": 1,
+                    "reference": "https://static.tokkobroker.com/pictures/80903299197581772867312456841446123611153689212673190309515384701009706210637.jpg?ONETag=f4a89b66d42925a06888ea3b227c18c1&ONImageHash=defb6af68a708d05f64a1afc59d5d4c9",
+                    "multimedia_type": {
+                        "name": "imagen",
+                        "metadata": {
+                            "translation": {
+                                "plural": "Fotos",
+                                "singular": "Foto"
+                            }
+                        },
+                        "multimedia_type_id": "2"
+                    },
+                    "picture_id": "1812835855",
+                    "real_size": {
+                        "height": 900,
+                        "width": 1200
+                    },
+                    "temporary": false
+                }
+            ],
+            "status": "ONLINE",
+            "type": "PROPERTY",
+            "posting_id": "49793359",
+            "real_estate_type": {
+                "name": "Apartamento",
+                "category": {
+                    "metadata": {
+                        "translation": {
+                            "plural": "Residenciales",
+                            "singular": "Residencial"
+                        }
+                    },
+                    "real_estate_type_category_id": "1",
+                    "label": "Residencial"
+                },
+                "metadata": {
+                    "translation": {
+                        "plural": "Departamentos",
+                        "singular": "Departamento"
+                    }
+                },
+                "real_estate_type_id": "2"
+            },
+            "price":  {
+                "amount": 215000,
+                "currency": "USD"
+            },
+            "publisher": {
+                "approved": false,
+                "publisher_id": "17061374",
+                "description": "Inmobiliaria especializada en ventas, alquileres tradicionales y alquileres temporales, dentro de la Capital. Para tasaciones, al 4773-6102",
+                "name": "Cuño Propiedades",
+                "legal_name": "FONTANA MARIA NOELIA",
+                "tax_id": "-",
+                "postal_code": "1425",
+                "tax_condition": {
+                    "id": "1",
+                    "name": "Responsable Inscripto",
+                    "enabled": true
+                },
+                "publisher_type": {
+                    "name": "Inmobiliaria",
+                    "publisher_type_id": "2"
+                },
+                "locked_manual": false,
+                "microsite_activated": false,
+                "address": "SINCLAIR 2976 PISO 4 OFICINA \"A\" ",
+                "mainPhone": "(011) 4773-6102",
+                "email": "noeliafontanaprop@gmail.com",
+                "url_logo": "https://preprostatic.zonapropcdn.com/empresas/1/00/17/06/13/74/130x70/logo_cuno-propiedades_1588283421534.jpg",
+                "license": "7180",
+                "slug": "CuñoPropiedades",
+                "created_date": "2010-09-01T00:00:00-0400",
+                "modified_date": "2020-04-30T17:50:22-0400"
+            }
+            
+        },
+        {
+            "title": "Hermoso 2 ambientes 120m con Amenities ! Belgrano",
+            "description": "**** SCALABRINI ORTIZ entre CABELLO y LAS HERAS (frente a la plaza) - PALERMO CHICO ****Hermoso departamento de 3 ambientes ( 2 dormitorios ) al contrafrente en edificio moderno con amenities: 1) Piscina en la terraza, 2) Gimnasio, 3) Parrilla, 4) SaunaEdificio de categoría ubicado en la zona mas exclusiva de palermo chico, a solo media cuadra de Av Las Heras y de todos los medios de transporte y a media cuadra del importante polo comercial. Dormitorio principal en suite con baño completo y patio orientados al pulmón del edificio Amplio living comedor y segundo dormitorio orientados al contrafrente y al balcónCocina completa  orientada al lateral (muy luminosa) Segundo baño completo (ó toilette de recepción)  Amplio hall de entrada con espacio para escritorio Lavadero Servicios: losa radiante, agua central, cocina a gas.Metrajes del departamento: 78 metros totales, 66 cubiertos, 6 de balcón, 6 de patio. EDIFICIO APTO PROFESIONAL (Se adjunta el plano del departamento en imágenes)DISPONIBLE !!!",
+            "pictures": [
+                {
+                    "order": 1,
+                    "reference": "https://static.tokkobroker.com/pictures/80903299197581772867312456841446123611153689212673190309515384701009706210637.jpg?ONETag=f4a89b66d42925a06888ea3b227c18c1&ONImageHash=defb6af68a708d05f64a1afc59d5d4c9",
+                    "multimedia_type": {
+                        "name": "imagen",
+                        "metadata": {
+                            "translation": {
+                                "plural": "Fotos",
+                                "singular": "Foto"
+                            }
+                        },
+                        "multimedia_type_id": "2"
+                    },
+                    "picture_id": "1812835855",
+                    "real_size": {
+                        "height": 900,
+                        "width": 1200
+                    },
+                    "temporary": false
+                }
+            ],
+            "status": "ONLINE",
+            "type": "PROPERTY",
+            "posting_id": "49793359",
+            "real_estate_type": {
+                "name": "Apartamento",
+                "category": {
+                    "metadata": {
+                        "translation": {
+                            "plural": "Residenciales",
+                            "singular": "Residencial"
+                        }
+                    },
+                    "real_estate_type_category_id": "1",
+                    "label": "Residencial"
+                },
+                "metadata": {
+                    "translation": {
+                        "plural": "Departamentos",
+                        "singular": "Departamento"
+                    }
+                },
+                "real_estate_type_id": "2"
+            },
+            "price":  {
+                "amount": 315000,
+                "currency": "USD"
+            },
+            "publisher": {
+                "approved": false,
+                "publisher_id": "17061374",
+                "description": "Inmobiliaria especializada en ventas, alquileres tradicionales y alquileres temporales, dentro de la Capital. Para tasaciones, al 4773-6102",
+                "name": "Cuño Propiedades",
+                "legal_name": "FONTANA MARIA NOELIA",
+                "tax_id": "-",
+                "postal_code": "1425",
+                "tax_condition": {
+                    "id": "1",
+                    "name": "Responsable Inscripto",
+                    "enabled": true
+                },
+                "publisher_type": {
+                    "name": "Inmobiliaria",
+                    "publisher_type_id": "2"
+                },
+                "locked_manual": false,
+                "microsite_activated": false,
+                "address": "SINCLAIR 2976 PISO 4 OFICINA \"A\" ",
+                "mainPhone": "(011) 4773-6102",
+                "email": "noeliafontanaprop@gmail.com",
+                "url_logo": "https://preprostatic.zonapropcdn.com/empresas/1/00/17/06/13/74/130x70/logo_cuno-propiedades_1588283421534.jpg",
+                "license": "7180",
+                "slug": "CuñoPropiedades",
+                "created_date": "2010-09-01T00:00:00-0400",
+                "modified_date": "2020-04-30T17:50:22-0400"
+            }
+            
+        },
+        {
+            "title": "Departamento en venta en Palermo Chico",
+            "description": "**** SCALABRINI ORTIZ entre CABELLO y LAS HERAS (frente a la plaza) - PALERMO CHICO ****Hermoso departamento de 3 ambientes ( 2 dormitorios ) al contrafrente en edificio moderno con amenities: 1) Piscina en la terraza, 2) Gimnasio, 3) Parrilla, 4) SaunaEdificio de categoría ubicado en la zona mas exclusiva de palermo chico, a solo media cuadra de Av Las Heras y de todos los medios de transporte y a media cuadra del importante polo comercial. Dormitorio principal en suite con baño completo y patio orientados al pulmón del edificio Amplio living comedor y segundo dormitorio orientados al contrafrente y al balcónCocina completa  orientada al lateral (muy luminosa) Segundo baño completo (ó toilette de recepción)  Amplio hall de entrada con espacio para escritorio Lavadero Servicios: losa radiante, agua central, cocina a gas.Metrajes del departamento: 78 metros totales, 66 cubiertos, 6 de balcón, 6 de patio. EDIFICIO APTO PROFESIONAL (Se adjunta el plano del departamento en imágenes)DISPONIBLE !!!",
+            "pictures": [
+                {
+                    "order": 1,
+                    "reference": "https://static.tokkobroker.com/pictures/80903299197581772867312456841446123611153689212673190309515384701009706210637.jpg?ONETag=f4a89b66d42925a06888ea3b227c18c1&ONImageHash=defb6af68a708d05f64a1afc59d5d4c9",
+                    "multimedia_type": {
+                        "name": "imagen",
+                        "metadata": {
+                            "translation": {
+                                "plural": "Fotos",
+                                "singular": "Foto"
+                            }
+                        },
+                        "multimedia_type_id": "2"
+                    },
+                    "picture_id": "1812835855",
+                    "real_size": {
+                        "height": 900,
+                        "width": 1200
+                    },
+                    "temporary": false
+                }
+            ],
+            "status": "OFFLINE",
+            "type": "PROPERTY",
+            "posting_id": "49793359",
+            "real_estate_type": {
+                "name": "Apartamento",
+                "category": {
+                    "metadata": {
+                        "translation": {
+                            "plural": "Residenciales",
+                            "singular": "Residencial"
+                        }
+                    },
+                    "real_estate_type_category_id": "1",
+                    "label": "Residencial"
+                },
+                "metadata": {
+                    "translation": {
+                        "plural": "Departamentos",
+                        "singular": "Departamento"
+                    }
+                },
+                "real_estate_type_id": "2"
+            },
+            "price":  {
+                "amount": 325000,
+                "currency": "USD"
+            },
+            "publisher": {
+                "approved": false,
+                "publisher_id": "17061374",
+                "description": "Inmobiliaria especializada en ventas, alquileres tradicionales y alquileres temporales, dentro de la Capital. Para tasaciones, al 4773-6102",
+                "name": "Cuño Propiedades",
+                "legal_name": "FONTANA MARIA NOELIA",
+                "tax_id": "-",
+                "postal_code": "1425",
+                "tax_condition": {
+                    "id": "1",
+                    "name": "Responsable Inscripto",
+                    "enabled": true
+                },
+                "publisher_type": {
+                    "name": "Inmobiliaria",
+                    "publisher_type_id": "2"
+                },
+                "locked_manual": false,
+                "microsite_activated": false,
+                "address": "SINCLAIR 2976 PISO 4 OFICINA \"A\" ",
+                "mainPhone": "(011) 4773-6102",
+                "email": "noeliafontanaprop@gmail.com",
+                "url_logo": "https://preprostatic.zonapropcdn.com/empresas/1/00/17/06/13/74/130x70/logo_cuno-propiedades_1588283421534.jpg",
+                "license": "7180",
+                "slug": "CuñoPropiedades",
+                "created_date": "2010-09-01T00:00:00-0400",
+                "modified_date": "2020-04-30T17:50:22-0400"
+            }
+            
+        }] 
+}
