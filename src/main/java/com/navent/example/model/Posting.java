@@ -6,4 +6,5 @@ import lombok.Data;
 public class Posting {
     private String title;
     private Price price;
+    private String status;
 }
