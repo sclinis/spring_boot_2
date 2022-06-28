@@ -1,5 +1,5 @@
 package com.navent.example.model;
 
-public enum StatusEnum {
+public enum Status {
     ONLINE, OFFLINE
 }

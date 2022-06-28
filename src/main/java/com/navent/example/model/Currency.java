@@ -1,5 +1,5 @@
 package com.navent.example.model;
 
-public enum CurrencyEnum {
-    PESOS, DOLAR, SOLES, REAL;
+public enum Currency {
+    USD;
 }
