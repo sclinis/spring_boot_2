@@ -15,7 +15,8 @@ public class ExampleSpringBootApplication implements CommandLineRunner {
 
 	@Autowired
 	private ExampleFileReader reader;
-	PostingService postingService = new PostingService();
+	@Autowired
+	PostingService postingService;
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExampleSpringBootApplication.class, args);
@@ -24,7 +25,7 @@ public class ExampleSpringBootApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		List<Posting> postings = reader.getPostingFromJson();
-		postingService.returnLowestPricePosting(postings);
+		postingService.returnLowestPricePosting(postings, "online");
 		//System.out.println(postings);
 	}
 }
